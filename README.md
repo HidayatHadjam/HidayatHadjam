@@ -4,8 +4,6 @@
 👩🏻‍🎓 Studied Computer Science at the Higher school of computer science, Algiers,Algeria.<br/>
 🌷 learning languages and frameworks like React, Tailwind CSS, Django and Node.js.<br/>
 🎨 I also enjoy wireframing, ui, ux, and design in general.
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=HidayatHadjam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
