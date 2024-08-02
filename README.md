@@ -1,3 +1,6 @@
-## Hi, I'm Hidayat 👋
+## 👋 Hi, I'm Hidayat!
 
-I'm a junior Full Stack Developer passionate about building scalable web applications.I really enjoy learning languages and frameworks like React, Tailwind CSS, Django and Node.js.I also enjoy wireframing, ui, ux, and design in general.
+👩🏻‍💻Junior Full Stack Developer passionate about building scalable web applications.
+👩🏻‍🎓 Studied Computer Science at the Higher of computer science, Algiers,Algeria.
+I really enjoy learning languages and frameworks like React, Tailwind CSS, Django and Node.js.
+I also enjoy wireframing, ui, ux, and design in general.
